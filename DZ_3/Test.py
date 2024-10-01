@@ -1,0 +1,2 @@
+a = 'gHHHHH'
+a.capitalize()
