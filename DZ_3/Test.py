@@ -1,2 +1,0 @@
-a = 'gHHHHH'
-a.capitalize()
